@@ -1,6 +1,6 @@
 {
   "name": "applidget-react-bootstrap-daterangepicker",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A date/time picker for react (using bootstrap). This is a react port of: https://github.com/dangrossman/bootstrap-daterangepicker",
   "main": "./lib/index.js",
   "scripts": {
@@ -17,7 +17,8 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "bootstrap-daterangepicker": "^2.1.13"
+    "bootstrap-daterangepicker": "^2.1.13",
+    "moment": "^2"
   },
   "peerDependencies": {
     "jquery": "^1.11.3",
@@ -42,8 +43,7 @@
     "wordwrap": "^1.0.0",
     "react": "^0.14.0",
     "react-dom": "^0.14.0",
-    "react-bootstrap": "^0.27.2",
-    "moment": "^2.10.6"
+    "react-bootstrap": "^0.27.2"
   },
   "keywords": [
     "react",
