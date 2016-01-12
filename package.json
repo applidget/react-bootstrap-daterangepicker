@@ -1,6 +1,6 @@
 {
-  "name": "react-bootstrap-daterangepicker",
-  "version": "1.0.6",
+  "name": "applidget-react-bootstrap-daterangepicker",
+  "version": "1.0.8",
   "description": "A date/time picker for react (using bootstrap). This is a react port of: https://github.com/dangrossman/bootstrap-daterangepicker",
   "main": "./lib/index.js",
   "scripts": {
@@ -10,10 +10,10 @@
   "author": "skratchdot",
   "repository": {
     "type": "git",
-    "url": "git://github.com/skratchdot/react-bootstrap-daterangepicker.git"
+    "url": "git://github.com/applidget/react-bootstrap-daterangepicker.git"
   },
   "bugs": {
-    "url": "https://github.com/skratchdot/react-bootstrap-daterangepicker/issues"
+    "url": "https://github.com/applidget/react-bootstrap-daterangepicker/issues"
   },
   "license": "Apache-2.0",
   "dependencies": {
